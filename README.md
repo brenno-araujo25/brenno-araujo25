@@ -14,32 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center"> 
+<h2 align="left">✉️ Connect with me:</h2>
+<div align="left"> 
   <a href="mailto:brennocaldeira@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/brenno-ara%C3%BAjo-012b62281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <!--
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://www.instagram.com/brennoaraujoc">
+    <img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  -->
 </div>
-
-<h2 align="center">🛠️ Languages, frameworks and tools 🛠️</h2>
-<p align="center">
+<br>
+<h2 align="left">🛠️ Languages, frameworks and tools:</h2>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,vite,vercel,npm" /> <br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
   </a>
 </p>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=brenno-araujo25&theme=react&hide_border=true)](https://git.io/streak-stats" alt="streak stats"/>
+<br>
+<!--
+<div align="left">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=brenno-araujo25&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-araujo25&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-araujo25&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brenno-araujo25&show_icons=true&locale=en" alt="brenno-araujo25" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenno-araujo25&show_icons=true&locale=en&layout=compact" alt="brenno-araujo25" /></p>
+-->
