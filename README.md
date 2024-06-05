@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Languages, frameworks and tools</h2>
-<a href="https://devicon.dev/">
-  <img height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,vite,vercel,npm" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+  </a>
+</p>
