@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
   </a>
 </p>
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-araujo25&layout=donut-vertical&hide=html,css&theme=tokyonight />
 <br>
 <!--
 <div align="left">
