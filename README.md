@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <h2 align="left">🛠️ Languages, frameworks and tools:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,vite,vercel,npm" /> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,yarn,npm" /> <br>
+    <img src="https://skillicons.dev/icons?i=docker,javascript,python,express,mysql" />
   </a>
 </p>
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-araujo25&layout=donut-vertical&hide=html,css&theme=tokyonight />
