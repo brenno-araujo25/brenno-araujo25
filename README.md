@@ -13,8 +13,10 @@
     <h3 align="left">Languages and Tools:</h3>
     <p align="left"> 
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,yarn,npm,postman" /> <br>
-        <img src="https://skillicons.dev/icons?i=docker,javascript,python,express,mysql,redis,postgres" />
+        <!--<img src="https://skillicons.dev/icons?i=git,github,react,nodejs,yarn,npm,postman" /> <br>
+        <img src="https://skillicons.dev/icons?i=docker,javascript,python,express,nestjs,mysql,postgres,sequelize" />-->
+        <img src="https://skillicons.dev/icons?i=git,github,python,javascript,typescript,nodejs,express,nestjs" /> <br>
+        <img src="https://skillicons.dev/icons?i=react,yarn,npm,postman,docker,mysql,postgres,sequelize" />
       </a>
     </p>
   </div>
