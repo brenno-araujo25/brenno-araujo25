@@ -15,8 +15,8 @@
       <a href="https://skillicons.dev">
         <!--<img src="https://skillicons.dev/icons?i=git,github,react,nodejs,yarn,npm,postman" /> <br>
         <img src="https://skillicons.dev/icons?i=docker,javascript,python,express,nestjs,mysql,postgres,sequelize" />-->
-        <img src="https://skillicons.dev/icons?i=git,github,python,javascript,typescript,nodejs,express,nestjs" /> <br>
-        <img src="https://skillicons.dev/icons?i=react,yarn,npm,postman,docker,mysql,postgres,sequelize" />
+        <img src="https://skillicons.dev/icons?i=git,github,python,javascript,typescript,nodejs,express,nestjs,nextjs" /> <br>
+        <img src="https://skillicons.dev/icons?i=react,tailwind,yarn,npm,postman,docker,mysql,postgres,sequelize,fastapi" />
       </a>
     </p>
   </div>
