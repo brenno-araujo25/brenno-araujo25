@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Brenno</h2>
+<h1 align="center">Hi 👋, I'm Brenno</h1>
 
 ###
 
@@ -16,13 +16,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=brenno-araujo25.brenno-araujo25&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -30,47 +24,47 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=flask" height="42" alt="flask logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="fastapi logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=express" height="42" alt="express logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="42" alt="nestjs logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="nextjs logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
-  <img width="10" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="42" alt="sequelize logo"  />
 </div>
 
