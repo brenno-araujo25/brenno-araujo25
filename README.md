@@ -2,15 +2,18 @@
 
 ###
 
-<div align="center">
+<div align="center">  
+  <a href="https://www.instagram.com/brennoaraujoc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="instagram logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/brenno-araujo25/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/brennoaraujoc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
-  </a>
   <a href="mailto:brennocaldeira@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="28" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://brenno-araujo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
