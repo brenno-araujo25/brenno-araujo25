@@ -3,17 +3,14 @@
 ###
 
 <div align="center">  
-  <a href="https://www.instagram.com/brennoaraujoc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/brenno-araujo25/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
-  <a href="mailto:brennocaldeira@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="28" alt="microsoft-outlook logo"  />
-  </a>
   <a href="https://brenno-araujo.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:brennocaldeira@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="28" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
@@ -34,9 +31,13 @@
 <br clear="both">
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo"  />
   <img width="2" />
@@ -44,7 +45,7 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=flask" height="42" alt="flask logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="42" alt="django logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
   <img width="2" />
@@ -78,7 +79,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenno-araujo25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenno-araujo25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&hide=css" height="180" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=brenno-araujo25&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
 </div>
 
