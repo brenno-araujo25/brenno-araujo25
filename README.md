@@ -2,15 +2,12 @@
 
 ###
 
-<div align="center">  
-  <a href="https://www.linkedin.com/in/brenno-araujo25/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://brenno-araujo.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/brenno-araujo25" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:brennocaldeira@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="28" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
@@ -20,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student from Brazil, currently in my 5th semester and passionate about backend development.<br><br>- 🔭 I’m working on personal projects, focusing on creating APIs and scalable systems using Node.js, NestJS, and Docker.<br>- 📚 I'm currently learning more about microservices architecture and advanced TypeScript patterns to enhance my skills.<br>- ⚡ In my free time, I enjoy exploring new technologies and improving my knowledge of software development best practices.</p>
+<p align="left">I'm a Computer Science student from Brazil, currently in my 5th semester and passionate about backend development.<br><br>- 🔭 I’m working on personal projects, focusing on creating APIs using Node.js, NestJS, Spring Boot and Docker.<br>- 📚 I'm currently learning more about microservices architecture and Spring Boot to enhance my skills.<br>- ⚡ In my free time, I enjoy exploring new technologies and improving my knowledge of software development best practices.</p>
 
 ###
 
@@ -51,6 +48,11 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
   <img width="2" />
+</div>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=express" height="42" alt="express logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="42" alt="nestjs logo"  />
