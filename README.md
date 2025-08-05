@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student from Brazil, currently in my 5th semester and passionate about backend development.<br><br>- 🔭 I’m working on personal projects, focusing on creating APIs using Node.js, NestJS, Spring Boot and Docker.<br>- 📚 I'm currently learning more about microservices architecture and Spring Boot to enhance my skills.<br>- ⚡ In my free time, I enjoy exploring new technologies and improving my knowledge of software development best practices.</p>
+<p align="left">I'm a Computer Science student from Brazil, currently in my 6th semester and passionate about backend development.<br><br>- 🔭 I’m working on personal projects, focusing on creating APIs using Node.js, NestJS, Spring Boot and Docker.<br>- 📚 I'm currently learning more about microservices architecture and Spring Boot to enhance my skills.<br>- ⚡ In my free time, I enjoy exploring new technologies and improving my knowledge of software development best practices.</p>
 
 ###
 
